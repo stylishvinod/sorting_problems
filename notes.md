@@ -23,10 +23,16 @@ https://leetcode.com/problems/sort-colors/description/
 https://leetcode.com/problems/sort-colors/description/
 
 https://leetcode.com/problems/meeting-rooms/
-
-347:
-
+https://leetcode.com/problems/intersection-of-two-arrays/
+https://leetcode.com/problems/top-k-frequent-elements/
+https://leetcode.com/problems/meeting-rooms-ii/
+https://leetcode.com/problems/car-pooling/
+https://leetcode.com/problems/wiggle-sort/
+https://leetcode.com/problems/advantage-shuffle/
+https://leetcode.com/problems/insert-interval/
+https://leetcode.com/problems/contains-duplicate-iii/
+https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 
 1:27
 https://algs4.cs.princeton.edu/lectures/23DemoPartitioning.pdf
-https://leetcode.com/problems/car-pooling/
+
